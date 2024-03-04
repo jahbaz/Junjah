@@ -1,0 +1,28 @@
+.food-cont{
+      background-image: url(images/food.jpg);
+      height: auto;
+      background-size: cover;
+ 
+}
+
+.foditm{
+    width: 1400px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+
+.foditms{
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+
+/* .ali{
+    background-image: url(images/Screenshot_20.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
